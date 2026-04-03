@@ -1,5 +1,5 @@
 # Esquema-Conceitual-Oficina
-A visaõ do esquema conceitual esta nas entidades criadas.
+A visão do esquema conceitual esta nas entidades criadas.
 Onde foram  criadas 5 entidades para o sistema rodar sem muita burocracia
 Foi cria uma entidade cliente que é os dados do proprietário do veiculo onde ele é o unico dono ou responsavel 
 Criado a entidade oficina que cadastrará os dados do veiculo e ira colher as informações do problema do veiculo
